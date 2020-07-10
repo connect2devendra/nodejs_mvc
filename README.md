@@ -1,6 +1,6 @@
 # nodejs_mvc
 
-![Image of StoreList](https://github.com/connect2devendra/nodejs_mvc/tree/master/public/images/screenshot-store-list.png)
+![Image of StoreList](https://github.com/connect2devendra/nodejs_mvc/blob/master/public/images/screenshot-store-list.jpg)
 
 
 ## Database Details as follows:
